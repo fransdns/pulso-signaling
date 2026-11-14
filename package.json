@@ -1,0 +1,10 @@
+{
+      "name": "pulso-signaling",
+      "version": "1.0.0",
+      "scripts": {
+        "start": "node server.js"
+      },
+      "dependencies": {
+        "y-webrtc-signaling": "*"
+      }
+}
